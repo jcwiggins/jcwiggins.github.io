@@ -7,9 +7,8 @@ published: true
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
 
 ## Haych TOO
-## More?
-### More stuff
-
+## H2
+### H3
 
 
 
