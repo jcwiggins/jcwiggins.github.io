@@ -15,7 +15,12 @@ Next you can update your site name, avatar and other options using the _config.y
 HUH?
  _And more_
 
-
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
 
 
