@@ -8,8 +8,8 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-## Just edited the post, wow.  ##
-### TEST ###
+## Just edited the post, wow.  
+
 
 [google](http://www.google.com "theGoogle")
 
