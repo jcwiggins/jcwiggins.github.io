@@ -10,6 +10,10 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ## Just edited the post, wow.  
 
+### More stuff
+### _And more_
+
+
 
 [google](http://www.google.com "theGoogle")
 
